@@ -1,0 +1,14 @@
+TODO LIST:
+
+make sample CSVs
+
+Test collecting one tweet from twitter API
+Find efficient way to collect based on group, hashtag, or keyword
+Set up mongo database and test pushing and pulling from it
+
+
+
+Rinse and repeat for facebook and reddit
+
+If data is unsatisfactory, use an HTML parser to scrape
+Make python GUI to input API key, Database endpoint, custom input options
