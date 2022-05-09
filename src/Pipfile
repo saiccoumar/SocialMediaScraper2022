@@ -7,6 +7,9 @@ name = "pypi"
 requests = "*"
 pandas = "*"
 pymongo = {extras = ["srv"], version = "*"}
+facebook-sdk = "*"
+praw = "*"
+facebook-scraper = "*"
 
 [dev-packages]
 
